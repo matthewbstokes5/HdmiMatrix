@@ -1,2 +1,3 @@
 # HdmiMatrix
-Control HDMI Matrix from RPi
+
+Control HDMI Matrix from RPi.
